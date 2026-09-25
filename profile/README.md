@@ -32,6 +32,10 @@ Instead of treating AI as a layer of prompts, I am interested in building system
 - **Risk & decision intelligence** — model development, evaluation, feature systems, ranking, and decision workflows
 - **Knowledge systems** — structured memory, knowledge graphs, retrieval, and reusable domain knowledge
 
+### Building next: Risk Intelligence Lab
+
+An open, clean-room toolkit for evaluating risk models under real deployment constraints — drift, OOT stability, adversarial validation, top-K ranking, model replacement analysis, and AI-assisted experiment review. Built only with public or synthetic data.
+
 ### Long-term thesis · OpenHI
 
 **Open Human Intelligence** is a long-term direction I care about: turning individual and collective knowledge, experience, and practice into structured, connected, reusable intelligence.
