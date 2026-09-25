@@ -2,39 +2,62 @@
 
 # Kevin Meng
 
-### Building practical AI systems at the intersection of agents, data, knowledge, and real-world workflows.
+### Building AI-native systems for risk, knowledge, and real-world workflows.
 
-**AI Agents** · **Knowledge Systems** · **Risk Modeling** · **Data Products**
+**AI Agents** · **Risk Intelligence** · **Knowledge Infrastructure** · **Product Engineering**
+
+<sub>AI × 风控 × 知识系统｜把有价值的工作流做成可复用、可持续增长的系统</sub>
 
 </div>
 
 ---
 
-## About
+## What I Build
 
-I build practical systems that connect **AI models, structured data, domain knowledge, and real workflows**.
+I work at the intersection of **AI, data, domain knowledge, and product engineering**.
 
-My work spans AI agents and memory, data/ML systems, knowledge graphs, developer tooling, and product-oriented automation. I care less about demos that only look impressive and more about systems that are **usable, explainable, maintainable, and able to survive real-world constraints**.
+Instead of treating AI as a layer of prompts, I am interested in building systems that can **remember, evaluate, make decisions, use tools, and improve real workflows**.
 
-> Build small. Validate fast. Turn useful workflows into durable systems.
+| AI Systems | Risk Intelligence | Knowledge Infrastructure |
+| --- | --- | --- |
+| Agents, memory, tools, orchestration | Modeling, evaluation, ranking, decision systems | Knowledge graphs, retrieval, reusable knowledge assets |
+| From one-shot prompts to persistent systems | From model metrics to business decisions | From scattered information to compounding intelligence |
 
-## Current Focus
+> **Build useful things. Make knowledge compound.**
 
-- **Agent systems** — memory, tools, orchestration, and reliable long-running workflows
-- **AI-native products** — turning domain workflows into lightweight products instead of one-off prompts
-- **Risk & data intelligence** — modeling, evaluation, feature systems, and decision workflows
-- **Knowledge infrastructure** — knowledge graphs, reusable knowledge assets, retrieval, and structured memory
+## Now
+
+- **Agent systems** — long-term memory, tool use, orchestration, and reliable agent workflows
+- **AI-native products** — turning repeated workflows into lightweight products instead of one-off demos
+- **Risk & decision intelligence** — model development, evaluation, feature systems, ranking, and decision workflows
+- **Knowledge systems** — structured memory, knowledge graphs, retrieval, and reusable domain knowledge
+
+### Long-term thesis · OpenHI
+
+**Open Human Intelligence** is a long-term direction I care about: turning individual and collective knowledge, experience, and practice into structured, connected, reusable intelligence.
+
+```text
+knowledge → structure → connection → reuse → intelligence
+```
 
 ## Selected Work
 
-| Project | What it is | Focus |
+| Project | What it demonstrates | Area |
 | --- | --- | --- |
-| [**zeroclaw-hindsight-v2**](https://github.com/kevin-meng/zeroclaw-hindsight-v2) | ZeroClaw integration with Hindsight long-term memory, semantic recall, knowledge graph, and cross-memory reasoning | AI Agents / Memory |
-| [**financial_stock_knowledge_graph**](https://github.com/kevin-meng/financial_stock_knowledge_graph) | End-to-end Chinese financial securities knowledge graph, from data extraction to graph applications | Knowledge Graph / FinTech |
-| [**HuggingfaceDownloadShare**](https://github.com/kevin-meng/HuggingfaceDownloadShare) | Practical tooling and notes for downloading and sharing Hugging Face models in constrained network environments | AI Tooling |
-| [**toastmaster_tools**](https://github.com/kevin-meng/toastmaster_tools) | Toastmasters timer and AI-assisted reporting workflow | AI Product / Community Tooling |
-| [**thinking_mentor**](https://github.com/kevin-meng/thinking_mentor) | LLM-assisted critical-thinking mentor for question decomposition and multi-perspective reasoning | LLM Application |
-| [**graph_in_life**](https://github.com/kevin-meng/graph_in_life) | Lightweight experiments for making graph structures easier to explore and visualize | Graph / Visualization |
+| [**zeroclaw-hindsight-v2**](https://github.com/kevin-meng/zeroclaw-hindsight-v2) | Long-term memory integration for an AI agent runtime: semantic recall, knowledge graph, and cross-memory reasoning | Agents / Memory |
+| [**financial_stock_knowledge_graph**](https://github.com/kevin-meng/financial_stock_knowledge_graph) | End-to-end financial knowledge graph work, from data extraction to graph applications | Knowledge Graph / FinTech |
+| [**HuggingfaceDownloadShare**](https://github.com/kevin-meng/HuggingfaceDownloadShare) | Practical AI infrastructure tooling for real network and distribution constraints | AI Tooling |
+| [**toastmaster_tools**](https://github.com/kevin-meng/toastmaster_tools) | A real-world community workflow turned into an AI-assisted product | Product Engineering |
+| [**thinking_mentor**](https://github.com/kevin-meng/thinking_mentor) | LLM-assisted critical thinking and multi-perspective reasoning | LLM Application |
+| [**graph_in_life**](https://github.com/kevin-meng/graph_in_life) | Lightweight graph exploration and visualization experiments | Graph / Visualization |
+
+## Products & Experiments
+
+Not everything I build is public from day one. Some projects start privately, get used in real workflows, and are open-sourced only when the reusable part becomes clear.
+
+- **Yanxu / 言序** — meeting and community collaboration tooling for Toastmasters clubs; built around real club operations rather than a demo scenario
+- **Quant research system** — a personal quantitative research stack for data updates, experiments, backtesting, and monitoring
+- **AI-assisted knowledge workflows** — experiments around turning documents, notes, and domain work into reusable knowledge assets
 
 ## Open-source Footprint
 
@@ -47,17 +70,32 @@ My work spans AI agents and memory, data/ML systems, knowledge graphs, developer
   </a>
 </p>
 
-Some of my current product work is developed privately while it moves from prototype to production. Public repositories here are the pieces that are useful to share, reuse, or build on.
+I prefer a smaller number of projects with clear purpose and real use over a large collection of disconnected demos.
 
-## How I Build
+## How I Work
 
 ```text
-problem → prototype → data / evaluation → workflow → product → reusable system
+problem
+  ↓
+prototype
+  ↓
+data + evaluation
+  ↓
+workflow
+  ↓
+product
+  ↓
+reusable system
 ```
 
-I like projects where the hard part is not just writing code, but **defining the right problem, designing the workflow, and making the system useful over time**.
+A few principles guide most of my work:
 
-## Tech I Work With
+- **Useful > impressive** — solve a real workflow before polishing the demo
+- **Evaluation > intuition** — define what “better” means before adding complexity
+- **Systems > prompts** — memory, tools, data, feedback loops, and operations matter
+- **Compounding > disposable** — reusable assets should become more valuable over time
+
+## Tech
 
 `Python` · `SQL` · `TypeScript` · `React` · `FastAPI` · `Docker` · `LightGBM` · `LLM / Agents` · `Knowledge Graphs`
 
@@ -65,6 +103,8 @@ I like projects where the hard part is not just writing code, but **defining the
 
 <div align="center">
 
-**Build useful things. Keep learning. Make knowledge compound.**
+### Build useful systems. Connect knowledge. Let intelligence compound.
+
+[Projects](https://github.com/kevin-meng?tab=repositories) · [Website](https://kevin-meng.github.io)
 
 </div>
